@@ -1,0 +1,155 @@
+[ 2016-01-22T22:43:46+08:00 ] 101.226.62.79 /?signature=f0e10a2d15780f0b2449e1aec1ae1fd9cb7a6f15&timestamp=1453473826&nonce=1854434251
+ERR: 开始调用ResponseImageMessageController@index并获得参数{"fromusername":"oZqpTs-p0YE_fjeoUmJexxd8vewI","tousername":"gh_fc39427f7e8c","msgtype":"image","picurl":"http:\/\/mmbiz.qpic.cn\/mmbiz\/NV44MaoczUquLbaLW953RRbY2fE1ZhnAKQgzCXMH5QLAyTaHALJOcPJuC0iaLW4lnz2SVQle2oekn3tPEIyTECg\/0","mediaid":"EN2AFVuVkpUmzY5fwxVDeVjo8orxbUGwK7ipJzWZ9gdZPax3Dv-P4MrIEQ0BDjG4","msgid":"6242622544369048326"}
+[ 2016-01-22T22:43:46+08:00 ] 101.226.62.79 /?signature=f0e10a2d15780f0b2449e1aec1ae1fd9cb7a6f15&timestamp=1453473826&nonce=1854434251
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+ERR: Think\Controller:sendImageMessage方法不存在！
+
+[ 2016-01-22T22:45:48+08:00 ] 101.226.62.79 /?signature=93bece1f57fc3556233be0fe04018895c979fb12&timestamp=1453473948&nonce=264187036
+ERR: 开始调用ResponseImageMessageController@index并获得参数{"fromusername":"oZqpTs-p0YE_fjeoUmJexxd8vewI","tousername":"gh_fc39427f7e8c","msgtype":"image","picurl":"http:\/\/mmbiz.qpic.cn\/mmbiz\/NV44MaoczUquLbaLW953RRbY2fE1ZhnAibHJXHjZsnZWXg28cP9082AXN58PxprEEqN1ASiaMuK6Ew1QIJTEobdw\/0","mediaid":"ZaE9I6Teu72HFWHgFKyY1lXb6dD75b9pncqTrmHCFpFDsLE5SSrstUQ2C4skBr7k","msgid":"6242623072650025758"}
+[ 2016-01-22T22:45:48+08:00 ] 101.226.62.79 /?signature=93bece1f57fc3556233be0fe04018895c979fb12&timestamp=1453473948&nonce=264187036
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-01-22T22:45:57+08:00 ] 101.226.62.79 /?signature=5800133981b837f99e8185baec626ec40a798ffc&timestamp=1453473957&nonce=267156870
+ERR: 开始调用ResponseImageMessageController@index并获得参数{"fromusername":"oZqpTs-p0YE_fjeoUmJexxd8vewI","tousername":"gh_fc39427f7e8c","msgtype":"image","picurl":"http:\/\/mmbiz.qpic.cn\/mmbiz\/NV44MaoczUquLbaLW953RRbY2fE1ZhnAq0icbCFmAANLQn3XqVm8CPsqzjWaz5qtEDFIa1BYEAz9DAAiaXFFiagCQ\/0","mediaid":"nDIwVwmjec9Na8gl0lrsrppay7lt2JZgcE8WH_u-8C2-zmP9zomo6wAsp81NO6Gx","msgid":"6242623107009764130"}
+[ 2016-01-22T22:45:57+08:00 ] 101.226.62.79 /?signature=5800133981b837f99e8185baec626ec40a798ffc&timestamp=1453473957&nonce=267156870
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-01-22T22:45:58+08:00 ] 180.153.163.211 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/v.vxndy.com/Application/Home/Controller/WechatController.class.php 第 51 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/v.vxndy.com/Application/Home/Controller/WechatController.class.php 第 51 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/v.vxndy.com/Application/Home/Controller/WechatController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2016-01-22T22:48:23+08:00 ] 101.226.62.79 /?signature=dc991c673614f2b23da12c9c069c794bc6b8a10b&timestamp=1453474103&nonce=2038043955
+ERR: 开始调用ResponseTextMessageController@index并获得参数{"fromusername":"oZqpTs-p0YE_fjeoUmJexxd8vewI","tousername":"gh_fc39427f7e8c","msgtype":"text","content":"\/:,@-D","msgid":"6242623734074989368"}
+[ 2016-01-22T22:48:23+08:00 ] 101.226.62.79 /?signature=dc991c673614f2b23da12c9c069c794bc6b8a10b&timestamp=1453474103&nonce=2038043955
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-01-22T22:48:28+08:00 ] 101.226.62.79 /?signature=e65d9dcbae3f08f8072af477074bf2447ae84e0b&timestamp=1453474108&nonce=2131987396
+ERR: 开始调用ResponseTextMessageController@index并获得参数{"fromusername":"oZqpTs-p0YE_fjeoUmJexxd8vewI","tousername":"gh_fc39427f7e8c","msgtype":"text","content":"\u3010\u6536\u5230\u4e0d\u652f\u6301\u7684\u6d88\u606f\u7c7b\u578b\uff0c\u6682\u65e0\u6cd5\u663e\u793a\u3011","msgid":"6242623759844793149"}
+[ 2016-01-22T22:48:28+08:00 ] 101.226.62.79 /?signature=e65d9dcbae3f08f8072af477074bf2447ae84e0b&timestamp=1453474108&nonce=2131987396
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-01-22T22:48:38+08:00 ] 101.226.62.79 /?signature=a6015650724d8ea8655207e67e1a30480293d3bf&timestamp=1453474118&nonce=496530864
+ERR: 开始调用ResponseTextMessageController@index并获得参数{"fromusername":"oZqpTs-p0YE_fjeoUmJexxd8vewI","tousername":"gh_fc39427f7e8c","msgtype":"text","content":"\u3010\u6536\u5230\u4e0d\u652f\u6301\u7684\u6d88\u606f\u7c7b\u578b\uff0c\u6682\u65e0\u6cd5\u663e\u793a\u3011","msgid":"6242623802794466111"}
+[ 2016-01-22T22:48:38+08:00 ] 101.226.62.79 /?signature=a6015650724d8ea8655207e67e1a30480293d3bf&timestamp=1453474118&nonce=496530864
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2016-01-22T22:48:50+08:00 ] 101.226.62.79 /?signature=76b8071fee68f17187f72a2a56a7499801f726cd&timestamp=1453474130&nonce=2012724300
+ERR: 开始调用ResponseTextMessageController@index并获得参数{"fromusername":"oZqpTs-p0YE_fjeoUmJexxd8vewI","tousername":"gh_fc39427f7e8c","msgtype":"text","content":"\u3010\u6536\u5230\u4e0d\u652f\u6301\u7684\u6d88\u606f\u7c7b\u578b\uff0c\u6682\u65e0\u6cd5\u663e\u793a\u3011","msgid":"6242623854334073667"}
+[ 2016-01-22T22:48:50+08:00 ] 101.226.62.79 /?signature=76b8071fee68f17187f72a2a56a7499801f726cd&timestamp=1453474130&nonce=2012724300
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
+
+[ 2016-01-22T22:48:58+08:00 ] 101.226.62.79 /?signature=2ad7ffd195a1d6dfbfc2ceba752e65e31a1f7dcc&timestamp=1453474138&nonce=1805084281
+ERR: 开始调用ResponseTextMessageController@index并获得参数{"fromusername":"oZqpTs-p0YE_fjeoUmJexxd8vewI","tousername":"gh_fc39427f7e8c","msgtype":"text","content":"\/::)","msgid":"6242623888693812038"}
+[ 2016-01-22T22:48:58+08:00 ] 101.226.62.79 /?signature=2ad7ffd195a1d6dfbfc2ceba752e65e31a1f7dcc&timestamp=1453474138&nonce=1805084281
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-01-22T22:58:14+08:00 ] 101.226.62.79 /?signature=b671826f232140aa5974da0491815fad09599a17&timestamp=1453474694&nonce=430128489
+ERR: 开始调用ResponseTextMessageController@index并获得参数{"fromusername":"oZqpTs-p0YE_fjeoUmJexxd8vewI","tousername":"gh_fc39427f7e8c","msgtype":"text","content":"\u3010\u6536\u5230\u4e0d\u652f\u6301\u7684\u6d88\u606f\u7c7b\u578b\uff0c\u6682\u65e0\u6cd5\u663e\u793a\u3011","msgid":"6242626276695628695"}
+[ 2016-01-22T22:58:14+08:00 ] 101.226.62.79 /?signature=b671826f232140aa5974da0491815fad09599a17&timestamp=1453474694&nonce=430128489
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-01-22T22:58:26+08:00 ] 101.226.62.79 /?signature=0f6b2f88a15362d932c6a86120ce74fc4796ca1b&timestamp=1453474706&nonce=1815213065
+ERR: 开始调用ResponseUnknowMessageController@index并获得参数{"fromusername":"oZqpTs-p0YE_fjeoUmJexxd8vewI","tousername":"gh_fc39427f7e8c","msgtype":"location"}
+[ 2016-01-22T22:58:26+08:00 ] 101.226.62.79 /?signature=0f6b2f88a15362d932c6a86120ce74fc4796ca1b&timestamp=1453474706&nonce=1815213065
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-01-22T22:59:31+08:00 ] 101.226.62.79 /?signature=22e2359890bb42898bdda5029cf2617194a721f2&timestamp=1453474771&nonce=1962951477
+ERR: 开始调用ResponseUnknowMessageController@index并获得参数{"fromusername":"oZqpTs-p0YE_fjeoUmJexxd8vewI","tousername":"gh_fc39427f7e8c","msgtype":"location"}
+[ 2016-01-22T22:59:31+08:00 ] 101.226.62.79 /?signature=22e2359890bb42898bdda5029cf2617194a721f2&timestamp=1453474771&nonce=1962951477
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
